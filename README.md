@@ -215,5 +215,15 @@ npm install
 ## 👤 Author
 **RhastaKroco**
 
+## 💬 Kontak & Bantuan
+Butuh bantuan atau ingin bertanya seputar bot?
+
+📱 **WhatsApp Support:**  
+👉 https://wa.me/6283836033866
+
+Silakan sertakan:
+- Error log
+- Screenshot (jika ada)
+- Penjelasan singkat masalah
 ---
 ⭐ Silakan dikembangkan & dimodifikasi sesuai kebutuhan
