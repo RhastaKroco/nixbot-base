@@ -11,9 +11,6 @@ const Pino = require('pino')
 const qrcode = require('qrcode-terminal')
 const { handleMessage } = require('./lib/handler')
 
-/* =============================
-   🛡️ ANTI BAD MAC GUARD
-   ============================= */
 process.on('uncaughtException', err => {
   if (err.message?.includes('Bad MAC')) return
   console.error(err)
